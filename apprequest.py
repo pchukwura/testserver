@@ -22,10 +22,10 @@ def fetch_workout():
 		'details' : 'These are example details', 'date' : datetime.datetime.now(pytz.utc).isoformat(),
 		'coverImgURL' : 'http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg'}
 
-	drills = [{'id' : '111', 'name' : 'Planking', 'duration' : 90,
+	drills = [{'id' : '111', 'name' : 'Burpees', 'duration' : 90,
 		'coverImgURL' : 'http://1.bp.blogspot.com/-I9tIS9p7mk8/Uz1ctF7DOTI/AAAAAAAAWYA/n1QKC7xzxKA/s1600/re2pect-jordan-brand-pays-tribute-to-derek-jeter-last-season-01.jpg'}]
 
-	drills.append({'id' : '333', 'name' : 'Sit-Ups', 'duration' : 30,
+	drills.append({'id' : '333', 'name' : 'Pushups', 'duration' : 30,
 		'coverImgURL' : 'http://sports.cbsimg.net/images/visual/whatshot/02152013b_michael_jordan.jpg'})
 
 	drills.append({'id' : '222', 'name' : 'Jumping Jacks', 'duration' : 120,
