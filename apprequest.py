@@ -15,16 +15,20 @@ def get_workout():
 	if workout_date is None or len(workout_date) == 0:
 		return Response('Missing date parameter', status=400)
 
+	return 'did it reach here?'
 
-	f = open('workouts.json', 'r')
-	workout_json = f.read()
-	f.close()
+	try:
+		f = open('workouts.json', 'r')
+		workout_json = f.read()
+		f.close()
+	except Exception:
+		return 'Exception'
+
+	return 'how about here?'
 
 	workout_dict = json.loads(workout_json)
 
 	todays_workouts = workout_dict[workout_date]
-
-	return workout_dict
 
 	if todays_workouts is None:
 		return Response(json.dumps({}), status=200, mimetype='application/json')
