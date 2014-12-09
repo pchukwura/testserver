@@ -15,7 +15,6 @@ def get_workout():
 	if workout_date is None or len(workout_date) == 0:
 		return Response('Missing date parameter', status=400)
 
-	return 'did it reach here?'
 
 	try:
 		f = open('workouts.json', 'r')
