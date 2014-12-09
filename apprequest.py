@@ -18,6 +18,7 @@ def get_workout():
 
 	f = open('workouts.json', 'r')
 	workout_json = f.read()
+	print 'FILE: {0}'.format(workout_json)
 	f.close()
 
 	workout_dict = json.loads(workout_json)
@@ -25,7 +26,7 @@ def get_workout():
 	todays_workouts = workout_dict[workout_date]
 
 	print workout_dict
-	
+
 	if todays_workouts is None:
 		return Response(json.dumps({}), status=200, mimetype='application/json')
 
