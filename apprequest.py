@@ -20,8 +20,8 @@ def get_workout():
 		f = open('workouts.json', 'r')
 		workout_json = f.read()
 		f.close()
-	except Exception:
-		return 'Exception'
+	except Exception, e:
+		return 'Exception: {0}'.format(e)
 
 	return 'how about here?'
 
