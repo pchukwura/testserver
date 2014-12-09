@@ -1,0 +1,67 @@
+{
+	"12_09_2014" : {
+		"basketball" : {
+			"id" : "12345",
+			"name" : "A Basketball Workout",
+			"description" : "A workout to help improve your basketball skills",
+			"details" : "Workout details",
+			"repeat_count" : 3,
+			"tips" : "Do this, And then this, Followed by that",
+			"bonus" : false,
+			"drills" : [
+				{
+					"name" : "PushUp",
+					"duration" : 30,
+					"recovery" : 10,
+					"tips" : "This is a tip, Another tip",
+					"assets" : [
+						{
+							"type" : 5,
+							"start_time" : 6,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 3,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 4,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						}
+					]
+				}
+			],
+			"assets" : [
+				{
+					"type" : 1,
+					"start_time" : 0,
+					"url" : "http://sports.cbsimg.net/images/visual/whatshot/02152013b_michael_jordan.jpg"
+				}
+			]
+		},
+		"baseball" : {
+			"id" : "777777",
+			"name" : "A Baseball Workout",
+			"description" : "A workout to help improve your baseball skills",
+			"details" : "Baseball Workout details",
+			"repeat_count" : 3,
+			"tips" : "Do this, And then this, Followed by that",
+			"bonus" : false,
+			"drills" : [],
+			"assets" : []
+		},
+		"football" : {
+			"id" : "98765",
+			"name" : "A Football Workout",
+			"description" : "A workout to help improve your football skills",
+			"details" : "Football Workout details",
+			"repeat_count" : 3,
+			"tips" : "Do this, And then this, Followed by that",
+			"bonus" : false,
+			"drills" : [],
+			"assets" : []
+		}
+	}
+}
