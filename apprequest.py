@@ -24,6 +24,8 @@ def get_workout():
 
 	todays_workouts = workout_dict[workout_date]
 
+	print workout_dict
+	
 	if todays_workouts is None:
 		return Response(json.dumps({}), status=200, mimetype='application/json')
 
