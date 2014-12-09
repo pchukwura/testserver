@@ -1,7 +1,7 @@
 from flask import Flask, request
 from flask import Response
 
-import datetime, json, pytz
+import datetime, json, pytz, os
 
 app = Flask(__name__)
 app.debug = True
@@ -17,13 +17,13 @@ def get_workout():
 
 
 	try:
-		f = open('workouts.json', 'r')
+		path = os.path.dirname(os.path.realpath(__file__))
+		path = os.path.join(path, 'workouts.json')
+		f = open(path, 'r')
 		workout_json = f.read()
 		f.close()
 	except Exception, e:
 		return 'Exception: {0}'.format(e)
-
-	return 'how about here?'
 
 	workout_dict = json.loads(workout_json)
 
