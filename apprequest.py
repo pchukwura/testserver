@@ -27,8 +27,9 @@ def get_workout():
 
 	workout_dict = json.loads(workout_json)
 
-	#For now, force 12_09-2014
+	#For now, force 12_09-2014 and Basketball
 	workout_date = '12_09_2014'
+	sport = 'basketball'
 
 	todays_workouts = workout_dict[workout_date]
 
