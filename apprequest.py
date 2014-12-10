@@ -27,6 +27,9 @@ def get_workout():
 
 	workout_dict = json.loads(workout_json)
 
+	#For now, force 12_09-2014
+	workout_date = '12_09_2014'
+
 	todays_workouts = workout_dict[workout_date]
 
 	if todays_workouts is None:
