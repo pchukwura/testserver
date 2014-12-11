@@ -8,6 +8,7 @@
 			"repeat_count" : 3,
 			"tips" : "Do this, And then this, Followed by that",
 			"bonus" : false,
+			"workoutDuration" : 600,
 			"drills" : [
 				{
 					"name" : "PushUp",
@@ -49,6 +50,7 @@
 			"repeat_count" : 3,
 			"tips" : "Do this, And then this, Followed by that",
 			"bonus" : false,
+			"workoutDuration" : 600,
 			"drills" : [],
 			"assets" : []
 		},
@@ -60,6 +62,7 @@
 			"repeat_count" : 3,
 			"tips" : "Do this, And then this, Followed by that",
 			"bonus" : false,
+			"workoutDuration" : 600,
 			"drills" : [],
 			"assets" : []
 		}
