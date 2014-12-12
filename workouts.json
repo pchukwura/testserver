@@ -12,8 +12,8 @@
 			"drills" : [
 				{
 					"name" : "PushUp",
-					"duration" : 45,
-					"recovery" : 5,
+					"duration" : 44,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -24,19 +24,19 @@
 						{
 							"type" : 3,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout_pushups.mp4"
 						},
 						{
 							"type" : 4,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout1.m4v"
 						}
 					]
 				},
 				{
 					"name" : "Jumping Jacks",
-					"duration" : 45,
-					"recovery" : 5,
+					"duration" : 44,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -47,19 +47,19 @@
 						{
 							"type" : 3,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout_pushups.mp4"
 						},
 						{
 							"type" : 4,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout2.m4v"
 						}
 					]
 				},
 				{
 					"name" : "Sit-Ups",
-					"duration" : 45,
-					"recovery" : 5,
+					"duration" : 44,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -70,19 +70,19 @@
 						{
 							"type" : 3,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout_pushups.mp4"
 						},
 						{
 							"type" : 4,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout1.m4v"
 						}
 					]
 				},
 				{
 					"name" : "Burpees",
-					"duration" : 45,
-					"recovery" : 5,
+					"duration" : 44,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -93,12 +93,12 @@
 						{
 							"type" : 3,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout_pushups.mp4"
 						},
 						{
 							"type" : 4,
 							"start_time" : 0,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+							"url" : "https://s3.amazonaws.com/workoutassets/workout2.m4v"
 						}
 					]
 				}
