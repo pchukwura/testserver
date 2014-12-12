@@ -12,8 +12,77 @@
 			"drills" : [
 				{
 					"name" : "PushUp",
-					"duration" : 30,
-					"recovery" : 10,
+					"duration" : 45,
+					"recovery" : 5,
+					"tips" : "This is a tip, Another tip",
+					"assets" : [
+						{
+							"type" : 5,
+							"start_time" : 6,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 3,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 4,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						}
+					]
+				},
+				{
+					"name" : "Jumping Jacks",
+					"duration" : 45,
+					"recovery" : 5,
+					"tips" : "This is a tip, Another tip",
+					"assets" : [
+						{
+							"type" : 5,
+							"start_time" : 6,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 3,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 4,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						}
+					]
+				},
+				{
+					"name" : "Sit-Ups",
+					"duration" : 45,
+					"recovery" : 5,
+					"tips" : "This is a tip, Another tip",
+					"assets" : [
+						{
+							"type" : 5,
+							"start_time" : 6,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 3,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						},
+						{
+							"type" : 4,
+							"start_time" : 0,
+							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
+						}
+					]
+				},
+				{
+					"name" : "Burpees",
+					"duration" : 45,
+					"recovery" : 5,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
