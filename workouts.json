@@ -12,8 +12,8 @@
 			"drills" : [
 				{
 					"name" : "PushUp",
-					"duration" : 44,
-					"recovery" : 6,
+					"duration" : 30,
+					"recovery" : 20,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -35,8 +35,8 @@
 				},
 				{
 					"name" : "Jumping Jacks",
-					"duration" : 44,
-					"recovery" : 6,
+					"duration" : 30,
+					"recovery" : 20,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -58,8 +58,8 @@
 				},
 				{
 					"name" : "Sit-Ups",
-					"duration" : 44,
-					"recovery" : 6,
+					"duration" : 30,
+					"recovery" : 20,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -81,8 +81,8 @@
 				},
 				{
 					"name" : "Burpees",
-					"duration" : 44,
-					"recovery" : 6,
+					"duration" : 30,
+					"recovery" : 20,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
