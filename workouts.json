@@ -8,7 +8,7 @@
 			"repeat_count" : 3,
 			"tips" : "Do this, And then this, Followed by that",
 			"bonus" : false,
-			"workoutDuration" : 80,
+			"workoutDuration" : 180,
 			"drills" : [
 				{
 					"name" : "PushUp",
@@ -76,29 +76,6 @@
 							"type" : 4,
 							"start_time" : 0,
 							"url" : "https://s3.amazonaws.com/workoutassets/workout1.m4v"
-						}
-					]
-				},
-				{
-					"name" : "Burpees",
-					"duration" : 8,
-					"recovery" : 6,
-					"tips" : "This is a tip, Another tip",
-					"assets" : [
-						{
-							"type" : 5,
-							"start_time" : 6,
-							"url" : "http://greatiphonewallpapers.com/uploads/iPhone%20Wallpaper/Sports/Air%20jordan%207.jpg"
-						},
-						{
-							"type" : 3,
-							"start_time" : 0,
-							"url" : "https://s3.amazonaws.com/workoutassets/workout_pushups.mp4"
-						},
-						{
-							"type" : 4,
-							"start_time" : 0,
-							"url" : "https://s3.amazonaws.com/workoutassets/workout2.m4v"
 						}
 					]
 				}
