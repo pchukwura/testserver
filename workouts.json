@@ -8,12 +8,12 @@
 			"repeat_count" : 3,
 			"tips" : "Do this, And then this, Followed by that",
 			"bonus" : false,
-			"workoutDuration" : 600,
+			"workoutDuration" : 80,
 			"drills" : [
 				{
 					"name" : "PushUp",
-					"duration" : 35,
-					"recovery" : 15,
+					"duration" : 8,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -35,8 +35,8 @@
 				},
 				{
 					"name" : "Jumping Jacks",
-					"duration" : 35,
-					"recovery" : 15,
+					"duration" : 8,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -58,8 +58,8 @@
 				},
 				{
 					"name" : "Sit-Ups",
-					"duration" : 35,
-					"recovery" : 15,
+					"duration" : 8,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
@@ -81,8 +81,8 @@
 				},
 				{
 					"name" : "Burpees",
-					"duration" : 35,
-					"recovery" : 15,
+					"duration" : 8,
+					"recovery" : 6,
 					"tips" : "This is a tip, Another tip",
 					"assets" : [
 						{
