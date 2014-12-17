@@ -8,7 +8,7 @@
 			"repeat_count" : 3,
 			"tips" : "Do this, And then this, Followed by that",
 			"bonus" : false,
-			"workoutDuration" : 126,
+			"workoutDuration" : 118,
 			"drills" : [
 				{
 					"name" : "PushUp",
