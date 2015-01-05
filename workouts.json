@@ -14,7 +14,7 @@
 					"name" : "PushUp",
 					"duration" : 8,
 					"recovery" : 6,
-					"tips" : "This is a tip, Another tip",
+					"tips" : "Keep your arms straight;Keep your back level;Keep your head faced down",
 					"assets" : [
 						{
 							"type" : 5,
@@ -37,7 +37,7 @@
 					"name" : "Jumping Jacks",
 					"duration" : 8,
 					"recovery" : 6,
-					"tips" : "This is a tip, Another tip",
+					"tips" : "Start with your fee together;Jump off the ground;Spread your legs;Clap your hands over your head",
 					"assets" : [
 						{
 							"type" : 5,
@@ -60,7 +60,7 @@
 					"name" : "Sit-Ups",
 					"duration" : 8,
 					"recovery" : 6,
-					"tips" : "This is a tip, Another tip",
+					"tips" : "Keep your arms straight;Keep your back level;Keep your head faced down",
 					"assets" : [
 						{
 							"type" : 5,
