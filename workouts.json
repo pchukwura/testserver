@@ -12,7 +12,7 @@
 			"drills" : [
 				{
 					"name" : "PushUp",
-					"duration" : 8,
+					"duration" : 14,
 					"recovery" : 6,
 					"tips" : "Keep your arms straight;Keep your back level;Keep your head faced down",
 					"assets" : [
@@ -35,7 +35,7 @@
 				},
 				{
 					"name" : "Jumping Jacks",
-					"duration" : 8,
+					"duration" : 14,
 					"recovery" : 6,
 					"tips" : "Start with your feet together;Jump off the ground;Spread your legs;Clap your hands over your head",
 					"assets" : [
@@ -58,7 +58,7 @@
 				},
 				{
 					"name" : "Sit-Ups",
-					"duration" : 8,
+					"duration" : 14,
 					"recovery" : 6,
 					"tips" : "Keep your arms straight;Keep your back level;Keep your head faced down",
 					"assets" : [
